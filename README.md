@@ -1,6 +1,6 @@
 ## Carhoo Dealer Widget
 
-![Print](https://github.com/juniornelson123/widget-store/blob/master/print.png)
+![Print](https://github.com/juniornelson123/widget-dealer/blob/master/print.png)
 
 ### Como usar?
 
