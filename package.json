@@ -358,7 +358,7 @@
     "json-parse-better-errors": "^1.0.2",
     "lcid": "^2.0.0",
     "levenary": "^1.1.1",
-    "kind-of": "^3.2.2",
+    "kind-of": "^6.0.3",
     "loader-utils": "^1.4.0",
     "loader-runner": "^2.4.0",
     "locate-path": "^3.0.0",
