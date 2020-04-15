@@ -1,7 +1,7 @@
 {
   "name": "@carhoo/widget-dealers",
   "description": "List car new widget",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "./src/main.js",
   "unpkg": "./dist/widget.js",
   "scripts": {

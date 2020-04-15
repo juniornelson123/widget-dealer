@@ -24,7 +24,7 @@
         &_item {
             width: 227px;
             max-width: 227px;
-            height: 278px;
+            height: 312px;
             margin: var(--card-margin);
             border: 1px solid var(--border-color);
             border-radius: var(--base-radius);
@@ -81,7 +81,7 @@
             }
             & .item-image {
                 width: 100%;
-                min-height: 130px;
+                min-height: 180px;
                 background-color: #f2f2f2;
                 border-radius: 2px 2px 0 0;
                 position: relative;
