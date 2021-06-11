@@ -416,7 +416,7 @@
     "needle": "^2.3.3",
     "normalize-path": "^3.0.0",
     "neo-async": "^2.6.1",
-    "normalize-url": "^3.3.0",
+    "normalize-url": "^4.5.1",
     "normalize-range": "^0.1.2",
     "npm-bundled": "^1.1.1",
     "minimist": "^1.2.5",
