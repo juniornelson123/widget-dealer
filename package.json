@@ -633,7 +633,7 @@
     "spdy": "^4.0.1",
     "static-extend": "^0.1.2",
     "statuses": "^1.5.0",
-    "set-value": "^2.0.1",
+    "set-value": "^4.0.1",
     "stream-browserify": "^2.0.2",
     "stream-each": "^1.2.3",
     "stream-http": "^2.8.3",
