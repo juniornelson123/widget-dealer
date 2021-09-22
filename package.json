@@ -420,7 +420,7 @@
     "normalize-range": "^0.1.2",
     "npm-bundled": "^1.1.1",
     "minimist": "^1.2.5",
-    "nth-check": "^1.0.2",
+    "nth-check": "^2.0.1",
     "npm-run-path": "^2.0.2",
     "number-is-nan": "^1.0.1",
     "npm-normalize-package-bin": "^1.0.1",
